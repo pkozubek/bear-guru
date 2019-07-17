@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bear-guru/static/css/main.a7fcd8db.chunk.css",
+    "main.js": "/bear-guru/static/js/main.8683de90.chunk.js",
+    "main.js.map": "/bear-guru/static/js/main.8683de90.chunk.js.map",
+    "runtime~main.js": "/bear-guru/static/js/runtime~main.28f33897.js",
+    "runtime~main.js.map": "/bear-guru/static/js/runtime~main.28f33897.js.map",
+    "static/js/2.756505ee.chunk.js": "/bear-guru/static/js/2.756505ee.chunk.js",
+    "static/js/2.756505ee.chunk.js.map": "/bear-guru/static/js/2.756505ee.chunk.js.map",
+    "index.html": "/bear-guru/index.html",
+    "precache-manifest.e139761fe1c9717f7873311ec471b3eb.js": "/bear-guru/precache-manifest.e139761fe1c9717f7873311ec471b3eb.js",
+    "service-worker.js": "/bear-guru/service-worker.js",
+    "static/css/main.a7fcd8db.chunk.css.map": "/bear-guru/static/css/main.a7fcd8db.chunk.css.map"
+  }
+}
