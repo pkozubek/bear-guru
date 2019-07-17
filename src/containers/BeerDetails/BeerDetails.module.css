@@ -1,0 +1,52 @@
+.SelectedBeerImage {
+  width: 20%;
+  height: 80%;
+  margin: 5%;
+}
+
+.SelectedBeerImage img {
+  max-width: 100%;
+  max-height: 600px;
+}
+
+.SelectedBeerData {
+  margin: 5%;
+  width: 60%;
+  height: 80%;
+}
+
+.SelectedBeerData h2 {
+  border-bottom: 1px solid #dfb242;
+  padding-bottom: 15px;
+  width: 80%;
+}
+
+.SelectedBeerData b {
+  margin: 5px;
+}
+
+.SelectedBeerData p {
+  width: 80%;
+}
+
+.MoreBeers {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 850px) {
+  .SelectedBeerImage {
+    display: none;
+  }
+
+  .SelectedBeerData,
+  .SelectedBeerData p,
+  .SelectedBeerData h2 {
+    width: 100%;
+    font-size: 0.9em;
+  }
+
+  .SelectedBeerData h2 {
+    font-size: 1.2em;
+  }
+}

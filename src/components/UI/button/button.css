@@ -1,0 +1,25 @@
+button {
+  width: 25px;
+  height: 25px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+}
+
+.like {
+  margin-left: 15px;
+  font-size: 0.9em;
+}
+
+.like:hover {
+  color: #dfb242;
+}
+
+.unlike {
+  margin-left: 15px;
+  font-size: 0.9em;
+}
+
+.unlike:hover {
+  color: #dfb242;
+}
